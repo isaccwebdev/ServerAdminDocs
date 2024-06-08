@@ -1,25 +1,71 @@
-# 👋 Welcome!
+---
+cover: >-
+  https://images.unsplash.com/photo-1565273601018-d1da7cfed4f7?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxTZXJ2ZXJ8ZW58MHx8fHwxNzE3ODUzMzc3fDA&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
 
-{% hint style="info" %}
-**About this template:** An Internal Wiki to lay out everything anyone needs to know about the company, help others get to know your team, product or company better..
-{% endhint %}
+# 👋 Wiki de Administracion de Servidores
 
-For **new team members**, this space will be helpful during your first days with the team, to better learn about who we are and how we work.
+¡Bienvenido a la Wiki de Administración de Servidores! Este recurso está diseñado para proporcionar información exhaustiva, guías prácticas y mejores prácticas sobre diversos aspectos de la administración de servidores.
 
-For **long-time team members**, this space will act as a reminder and allow you to find answers about admin and policies etc.
+### Contenido
 
-<details>
+#### 1. **Introducción**
 
-<summary>How to use it?</summary>
+* ¿Qué es la administración de servidores?
+* Historia y evolución
+* Principales responsabilidades de un administrador de servidores
 
-This space is designed to be read linearly, so start with our Vision, Mission & Focus and work down from there! We recommend reading everything through in one sitting and then revisiting and re-reading if you need to.
+#### 2. **Fundamentos**
 
-</details>
+* Conceptos básicos de redes
+* Sistemas operativos de servidores
+* Hardware de servidores
 
-<details>
+#### 3. **Configuración y Gestión**
 
-<summary>Contributing</summary>
+* Instalación y configuración de servidores
+* Administración de usuarios y permisos
+* Gestión de almacenamiento y sistemas de archivos
+* Monitorización y rendimiento
 
-If you want to contribute changes, start a new change request and submit it for review. The People team will review it soon after.
+#### 4. **Seguridad**
 
-</details>
+* Seguridad en servidores
+* Prácticas recomendadas para la seguridad
+* Configuración de firewalls
+* Gestión de actualizaciones y parches
+
+#### 5. **Automatización**
+
+* Introducción a la automatización
+* Scripting con Bash
+* Herramientas de automatización: Ansible, Puppet, Chef
+
+#### 6. **Resolución de Problemas**
+
+* Diagnóstico y solución de problemas comunes
+* Logs y auditorías
+* Recuperación ante desastres
+
+### Recursos Adicionales
+
+* Foros y comunidades
+* Libros y publicaciones
+* Cursos y certificaciones
+
+### Acerca de esta Wiki
+
+Esta wiki ha sido creada y es mantenida por entusiastas y profesionales de la administración de servidores. Si deseas contribuir, por favor visita nuestra sección de Contribuciones.
+
+**Nota:** Si encuentras algún error o tienes sugerencias, no dudes en contactar al equipo de administración a través de **dangdev97@gmail.com**
+
+***
+
+### Últimas Actualizaciones
+
+* **10/06/2024**: Añadidos los primeros documentos.
+
+***
+
+**© 2024 Wiki de Administración de Servidores. Todos los derechos reservados.**
