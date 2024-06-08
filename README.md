@@ -4,61 +4,31 @@ cover: >-
 coverY: 0
 ---
 
-# 👋 Wiki de Administracion de Servidores
+# 📘 Libro Wiki: Todo sobre Servidores
 
-¡Bienvenido a la Wiki de Administración de Servidores! Este recurso está diseñado para proporcionar información exhaustiva, guías prácticas y mejores prácticas sobre diversos aspectos de la administración de servidores.
 
-### Contenido
+## Descripción
 
-#### 1. **Introducción**
+Bienvenido al libro wiki sobre servidores. Este libro es una compilación de conocimientos, experiencias y mejores prácticas adquiridas en el campo de la administración y programación de servidores. Está diseñado para ser una guía completa y accesible para administradores de servidores, programadores y entusiastas de la tecnología.
 
-* ¿Qué es la administración de servidores?
-* Historia y evolución
-* Principales responsabilidades de un administrador de servidores
 
-#### 2. **Fundamentos**
+## Sobre el Autor
 
-* Conceptos básicos de redes
-* Sistemas operativos de servidores
-* Hardware de servidores
+Soy un programador y administrador de servidores apasionado por la tecnología y siempre en busca de nuevos conocimientos. Este libro va a ser el resultado de años de experiencia y aprendizaje continuo. Espero que sirva como una valiosa referencia para todos aquellos interesados en el fascinante mundo de los servidores.
 
-#### 3. **Configuración y Gestión**
+## Licencia
 
-* Instalación y configuración de servidores
-* Administración de usuarios y permisos
-* Gestión de almacenamiento y sistemas de archivos
-* Monitorización y rendimiento
+Este libro está publicado bajo la [Licencia Creative Commons Atribución 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/).
 
-#### 4. **Seguridad**
+## Contacto
 
-* Seguridad en servidores
-* Prácticas recomendadas para la seguridad
-* Configuración de firewalls
-* Gestión de actualizaciones y parches
+Para sugerencias, correcciones o colaboraciones, puedes contactarme en:
+- **Email:** dangdev97@gmail.com
+- **GitHub:** [isaccwebdev](https://github.com/isaccwebdev)
 
-#### 5. **Automatización**
+---
 
-* Introducción a la automatización
-* Scripting con Bash
-* Herramientas de automatización: Ansible, Puppet, Chef
 
-#### 6. **Resolución de Problemas**
-
-* Diagnóstico y solución de problemas comunes
-* Logs y auditorías
-* Recuperación ante desastres
-
-### Recursos Adicionales
-
-* Foros y comunidades
-* Libros y publicaciones
-* Cursos y certificaciones
-
-### Acerca de esta Wiki
-
-Esta wiki ha sido creada y es mantenida por entusiastas y profesionales de la administración de servidores. Si deseas contribuir, por favor visita nuestra sección de Contribuciones.
-
-**Nota:** Si encuentras algún error o tienes sugerencias, no dudes en contactar al equipo de administración a través de **dangdev97@gmail.com**
 
 ***
 
